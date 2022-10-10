@@ -2,4 +2,4 @@
 
 We intend to develop a Property Rental System for London by using the London Airbnb dataset to populate our database. A company named Airbnb, is managing the lodging of tourists and provide specific type of property needed for vacation rentals. Our proposed system is basically a marketplace for rental properties in London, wherein the users will be able to book, cancel a booking, provide review for a property they rented, and post new properties. User can become a host, if he wants to rent the property. Host can view all the customers he served, reviews provided by users and many other things. Admin can manage all users, properties, and bookings. Our overall goal for this project is to understand and implement various aspects of database system design like data modeling, defining a relational schema.
 
-Our client application is in prental_final.py file. Change user name, password and database name accordingly to run the code in prental_final.py file. 
+Our client application is in prental_final.py file. Change user name, password and database name accordingly to run the code in prental_final.py file. Listings.csv and reviews.csv files are too big to upload.
